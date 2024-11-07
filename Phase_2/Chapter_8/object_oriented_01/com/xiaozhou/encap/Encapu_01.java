@@ -62,6 +62,7 @@ class Person {
             System.out.println(salary);
         }else{
             System.out.println("不给看");
+
         }
     }
 }
